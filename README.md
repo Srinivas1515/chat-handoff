@@ -1,3 +1,11 @@
+## Development Version
+
+**Version:** v1.2.0
+
+This branch contains the updated Version 2 of the Chat Handoff Claude skill. It is being maintained separately from the stable version on the `main` branch while the changes are reviewed and tested.
+
+See `SKILL.md` for the current skill instructions and `scripts/handoff.py` for the Python helper script.
+
 # Chat Handoff — Claude Skill
 
 **Save your context. Preserve your progress. Continue your work in a new chat.**
